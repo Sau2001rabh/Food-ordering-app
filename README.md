@@ -8,7 +8,7 @@ Password: admin<br>
 
 # Screenshots
 
-<img src="https://github.com/byteWizard07/www/blob/main/screenshots/99-banner.png">
+<img src="https://github.com/Sau2001rabh/Food-ordering-app/blob/main/screenshots/99-banner.png">
 Find how the project looks in <b>screenshots folder</b> Or <a href="https://github.com/Sau2001rabh/Food-ordering-app/tree/main/screenshots">click here</a>
 
 # Technologies Used
